@@ -3,3 +3,5 @@ this is 2026
 pink mode fixes are done 
 
 orange mode fixes are done 
+
+added new file green.txt
